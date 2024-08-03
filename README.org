@@ -2,9 +2,8 @@
 
 Common Lisp Kerberos v5 implementation
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/fjames86/cerberus.git   |
-| commit  | 64d145a  |
-| systems | cerberus |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/fjames86/cerberus.git |
+| commit  | 8f4143b                                      |
+| systems | cerberus                                     |
+|---------+----------------------------------------------|
